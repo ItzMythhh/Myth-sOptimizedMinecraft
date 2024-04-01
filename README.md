@@ -3,6 +3,7 @@ This list includes all of the mods needed to make your Minecraft game run smooth
 The versions here may be updated accordingly.
 
 Dependencies:
+
 INSTALL FABRIC API: https://fabricmc.net/
 
 DOWNLOAD ALL THE MODS HERE (Except Hydrogen): https://jellysquid.me/projects/
@@ -10,10 +11,11 @@ DOWNLOAD ALL THE MODS HERE (Except Hydrogen): https://jellysquid.me/projects/
 -----
 
 Mods:
-    3D Skin Layers (1.16.5-1.21 ✅): https://modrinth.com/mod/3dskinlayers
 
     AI Improvements (1.16.5-1.21 ✅): https://www.curseforge.com/minecraft/mc-mods/ai-improvements
-    
+      
+    3D Skin Layers (1.16.5-1.21 ✅): https://modrinth.com/mod/3dskinlayers
+
     Animatica (1.16.5-1.21 ✅): https://github.com/FoundationGames/Animatica
     
     Better Ping Display (1.16.5-1.21 ✅): https://github.com/vladmarica/better-ping-display-fabric
