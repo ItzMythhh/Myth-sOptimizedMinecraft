@@ -109,4 +109,6 @@ Mods:
     
     Smooth Scrolling Refurbished (1.16.5-1.21 ✅): https://modrinth.com/mod/smooth-scrolling-refurbished
 
+-----
+
 ‼️ Again, please ensure to verify compatibility and versions before installing these mods for your Minecraft game.
