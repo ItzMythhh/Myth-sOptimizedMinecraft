@@ -4,6 +4,7 @@ The versions here may be updated accordingly.
 
 Dependencies:
 INSTALL FABRIC API: https://fabricmc.net/
+
 DOWNLOAD ALL THE MODS HERE (Except Hydrogen): https://jellysquid.me/projects/
 
 -----
