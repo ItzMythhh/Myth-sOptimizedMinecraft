@@ -11,7 +11,7 @@ DOWNLOAD ALL THE MODS HERE (Except Hydrogen): https://jellysquid.me/projects/
 
 Mods:
     3D Skin Layers (1.16.5-1.21 ✅): https://modrinth.com/mod/3dskinlayers
-    
+
     AI Improvements (1.16.5-1.21 ✅): https://www.curseforge.com/minecraft/mc-mods/ai-improvements
     
     Animatica (1.16.5-1.21 ✅): https://github.com/FoundationGames/Animatica
